@@ -188,21 +188,21 @@
 
 // task 6
 
-const personal = prompt(`enter how good we were, відмінно or добре or задовільно`);
-let teaMoney = 'відмінно';
+// const personal = prompt(`enter how good we were, відмінно or добре or задовільно`);
+// let teaMoney = 'відмінно';
 
-switch (true) {
-    case personal = `відмінно`:
-        teaMoney = `you have to pay 20% of all price to teaMoney`;
-        break;
-        case personal = `добре`:
-            teaMoney = `you have to pay 15% of all price to teaMoney`;
-            break;
-            case personal = `задовільно`:
-                teaMoney = `you have to pay 10% of all price to teaMoney`;
-                break;
-                default:
+// switch (true) {
+//     case personal = `відмінно`:
+//         teaMoney = `you have to pay 20% of all price to teaMoney`;
+//         break;
+//         case personal = `добре`:
+//             teaMoney = `you have to pay 15% of all price to teaMoney`;
+//             break;
+//             case personal = `задовільно`:
+//                 teaMoney = `you have to pay 10% of all price to teaMoney`;
+//                 break;
+//                 default:
                     
-                }
-                console.log(teaMoney);
+//                 }
+//                 console.log(teaMoney);
 
